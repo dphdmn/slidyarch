@@ -183,4 +183,4 @@ async def main():
 if __name__ == "__main__":
     # Run the async main function
     asyncio.run(main())
-    git_update
+    git_update()
